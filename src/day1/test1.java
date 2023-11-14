@@ -27,7 +27,6 @@ public class test1 {
     /*
     哈希表
     */
-    还没有理解
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> hashtable = new HashMap<Integer, Integer>();
         for (int i = 0; i < nums.length; ++i) {
